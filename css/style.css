@@ -81,7 +81,7 @@ header .logo{
     vertical-align: middle;
 }
 
-#text-logo{
+header .text-logo{
     color:var(--black);
     font-size: 2.5rem;
     font-weight: bolder;
