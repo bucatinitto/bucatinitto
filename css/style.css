@@ -794,7 +794,7 @@ p {
     -o-transition: -o-transform 0.3s ease-out;
     transition: transform 0.3s ease-out;
     top: 20%;
-    font-size: 10px
+    font-size: 3px
 }
 .modal:target .modal-dialog {
     top: -100%;
